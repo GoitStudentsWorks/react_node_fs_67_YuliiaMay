@@ -1,0 +1,1 @@
+const s="/react_node_fs_67_YuliiaMay/assets/bg-des@1x-82264fa3.png",a="/react_node_fs_67_YuliiaMay/assets/bg-tab@1x-21060262.png",e="/react_node_fs_67_YuliiaMay/assets/bg-mob@1x-4334f90e.png";export{a,s as b,e as c};
