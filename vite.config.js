@@ -12,8 +12,8 @@ export default defineConfig({
     }),
   ],
   server: {
-    open: "/pet-app-frontend",
+    open: "/react_node_fs_67_YuliiaMay",
     port: 8000,
   },
-  base: "/pet-app-frontend",
+  base: "/react_node_fs_67_YuliiaMay",
 });
