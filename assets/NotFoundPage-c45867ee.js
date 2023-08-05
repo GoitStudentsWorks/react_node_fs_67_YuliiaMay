@@ -1,4 +1,4 @@
-import{s as e,N as o,j as r,R as s,I as n}from"./index-216a50c7.js";import{b as t,a as i,c}from"./bg-mob@1x-6113c5e2.js";const a="/react_node_fs_67_YuliiaMay/assets/error-desk-9c84cef6.png",p="/react_node_fs_67_YuliiaMay/assets/error-desk2-a7dba45b.png",d="/react_node_fs_67_YuliiaMay/assets/error-tab-e53d6a20.png",x="/react_node_fs_67_YuliiaMay/assets/error-tab2-e0c2401f.png",f="/react_node_fs_67_YuliiaMay/assets/error-mob-d3ab3fb4.png",g="/react_node_fs_67_YuliiaMay/assets/error-mob2-8584f464.png",m=e.div`
+import{s as e,N as o,j as r,R as s,I as n}from"./index-9ab9811f.js";import{b as t,a as i,c}from"./bg-mob@1x-6113c5e2.js";const a="/react_node_fs_67_YuliiaMay/assets/error-desk-9c84cef6.png",p="/react_node_fs_67_YuliiaMay/assets/error-desk2-a7dba45b.png",d="/react_node_fs_67_YuliiaMay/assets/error-tab-e53d6a20.png",x="/react_node_fs_67_YuliiaMay/assets/error-tab2-e0c2401f.png",f="/react_node_fs_67_YuliiaMay/assets/error-mob-d3ab3fb4.png",g="/react_node_fs_67_YuliiaMay/assets/error-mob2-8584f464.png",m=e.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
